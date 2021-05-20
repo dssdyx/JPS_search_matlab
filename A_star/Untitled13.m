@@ -1,0 +1,1 @@
+single_ori_expand(node,map,MAX_X,MAX_Y,force_dir)
